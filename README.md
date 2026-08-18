@@ -4,7 +4,7 @@
 
 与另两个仓库的分工：
 - [dsh-plugins](https://github.com/Wntediluvian/dsh-plugins) — 插件（如 dsh-backup）
-- [dsh-skills](https://github.com/Wntediluvian/dsh-skills) — 技能（如 dsh-troubleshoot / dsh-release）
+- [dsh-skills](https://github.com/Wntediluvian/dsh-skills) — 技能（如 dsh-ops / dsh-release）
 - **dsh-tools** — 运维脚本与工具（本仓库）
 
 ## 工具列表
