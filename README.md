@@ -2,9 +2,9 @@
 
 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 运维工具与辅助脚本合集。
 
-与另两个仓库的分工：
+相关工作：
 - [dsh-plugins](https://github.com/Wntediluvian/dsh-plugins) — 插件（如 dsh-backup）
-- [dsh-skills](https://github.com/Wntediluvian/dsh-skills) — 技能（如 dsh-ops / dsh-release）
+- [chatgpt-knowledge-base](https://github.com/Wntediluvian/chatgpt-knowledge-base) — Skills 与本地知识库（原 `dsh-skills` 已退役，技能内容已并入该仓库）
 - **dsh-tools** — 运维脚本与工具（本仓库）
 
 ## 工具列表
